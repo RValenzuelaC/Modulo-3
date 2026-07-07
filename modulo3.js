@@ -99,7 +99,7 @@ function filtrarNumerosPares(numero) {
 			console.log("El número es impar");
 		}
 	} else {
-		filtrarNumerosPares(Number(prompt("Ingrese un número")));
+		filtrarNumerosPares(Number(prompt("Ingrese un número para filtrar")));
 	}
 }
 
